@@ -1,0 +1,12 @@
+{
+  "name": "quimbaya-sonora",
+  "version": "1.0.0",
+  "description": "Cartografía Sonora Ancestral Quimbaya — Proyecto de investigación artística y sonora",
+  "scripts": {
+    "dev": "npx serve public -p 3000",
+    "start": "npx serve public -p 3000"
+  },
+  "keywords": ["quimbaya", "cartografia-sonora", "colombia", "aves", "patrimonio"],
+  "author": "",
+  "license": "MIT"
+}
